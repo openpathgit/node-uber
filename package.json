@@ -1,5 +1,5 @@
 {
-  "name": "node-uber",
+  "name": "node-uber-drivers",
   "version": "1.0.0",
   "description": "A Node.js wrapper for Uber API",
   "main": "index.js",
@@ -8,14 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shernshiou/node-uber.git"
+    "url": "git://github.com/openpathgit/node-uber.git"
   },
   "author": {
-    "name": "Shern Shiou Tan",
-    "email": "shernshiou@gmail.com",
-    "url": "http://blog.shernshiou.com"
+    "name": "Openpath Products",
+    "email": "rholic@openpathproducts.com",
+    "url": ""
   },
   "contributors": [
+	  {
+		"name": "Shern Shiou Tan",
+		"email": "shernshiou@gmail.com",
+		"url": "http://blog.shernshiou.com"
+	  },
     {
       "name": "Alexander Graebe",
       "email": "alex.graebe@gmail.com",
