@@ -1,6 +1,6 @@
 {
   "name": "node-uber-drivers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js wrapper for Uber API driver api's",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,11 @@
     "url": ""
   },
   "contributors": [
-	  {
-		"name": "Shern Shiou Tan",
-		"email": "shernshiou@gmail.com",
-		"url": "http://blog.shernshiou.com"
-	  },
+    {
+      "name": "Shern Shiou Tan",
+      "email": "shernshiou@gmail.com",
+      "url": "http://blog.shernshiou.com"
+    },
     {
       "name": "Alexander Graebe",
       "email": "alex.graebe@gmail.com",
