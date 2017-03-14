@@ -1,6 +1,6 @@
 {
   "name": "node-uber-drivers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Node.js wrapper for Uber API driver api's",
   "main": "index.js",
   "scripts": {
